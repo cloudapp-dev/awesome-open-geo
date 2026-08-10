@@ -50,6 +50,7 @@ Measuring whether AI engines actually mention you. This is where the paid-SaaS g
 - [searchstack-aeo](https://github.com/alexpospekhov/searchstack-aeo) - Python stack for monitoring visibility across generative engines, assembled for small teams rather than agencies.
 - [goose-aeo](https://github.com/gooseworks-ai/goose-aeo) - AEO tracking CLI plus dashboard, designed to be driven by a coding agent.
 - [potato](https://github.com/onism1767-creator/potato) - Narrow, fast check of how often a brand is mentioned and cited in web-search answers. Good for a quick read before committing to a full platform.
+- [aicheck](https://github.com/FoundagentTest/ai-answer-check) - Single standard-library Python file that asks one frozen question about a named local business and prints the engine's answer verbatim alongside the pages it cited. Aimed at fact drift rather than share of voice: because the wording never changes, two readings a month apart are actually comparable.
 
 ## llms.txt Tooling
 
