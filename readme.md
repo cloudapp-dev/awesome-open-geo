@@ -37,6 +37,7 @@ Run these against your own site to find what stops an answer engine from quoting
 - [SEOCORE](https://github.com/codepurse/SEOCORE) - Multi-threaded TypeScript crawler with a rule engine and link-graph analyzer. The heavier option when you need internal-linking and site-architecture data, not just page checks.
 - [seo-audit-skill](https://github.com/seo-skills/seo-audit-skill) - Command-line audit with 108 rules across 12 categories, including AI-search and structured-data checks.
 - [laravel-seo-scanner](https://github.com/backstagephp/laravel-seo-scanner) - Scans Laravel routes from inside the app, so it audits pages that a public crawler cannot reach.
+- [geolint](https://github.com/iliasabk/geolint) - ESLint-style linter for AI-search readiness: robots.txt evaluated against 51 AI crawler tokens, llms.txt and AI manifests, structured data, citability — 51 rules, a 0–100 score, and a concrete fix per finding. Ships as an npm CLI, a GitHub Action with sticky PR comments, and a five-tool MCP server.
 
 ## Visibility and Citation Monitoring
 
