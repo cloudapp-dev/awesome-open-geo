@@ -51,6 +51,8 @@ Measuring whether AI engines actually mention you. This is where the paid-SaaS g
 - [goose-aeo](https://github.com/gooseworks-ai/goose-aeo) - AEO tracking CLI plus dashboard, designed to be driven by a coding agent.
 - [potato](https://github.com/onism1767-creator/potato) - Narrow, fast check of how often a brand is mentioned and cited in web-search answers. Good for a quick read before committing to a full platform.
 
+- [Traclux](https://github.com/ZaneLau/traclux-probe) - Self-hosted GEO workbench that generates probes from six-dimensional CSSM-HI user states, executes them against a configured model, and exposes saved answers for brand analysis.
+
 ## llms.txt Tooling
 
 Generating and validating the file, rather than hand-maintaining it.
