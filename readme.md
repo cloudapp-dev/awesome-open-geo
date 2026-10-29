@@ -81,6 +81,7 @@ Emit the right markup and machine-readable output from the stack you already run
 - [RagRabbit](https://github.com/madarco/ragrabbit) - Self-hosted AI site search that also produces `llms.txt` from what it indexes, giving one crawl two uses.
 - [aigeo](https://github.com/GitHiteshZope/aigeo) - Laravel package for surfacing products inside AI-generated answers.
 - [GEO-AI-Woo](https://github.com/madeburo/GEO-AI-Woo) - WordPress and WooCommerce plugin generating `llms.txt`, AI crawler rules, and AI-oriented metadata.
+- [NodeThemes SEO AI](https://github.com/nodethemes/nodethemes-seo-ai) - WordPress and WooCommerce SEO plugin (GPL-2.0) that serves `llms.txt`, outputs JSON-LD schema with FAQ data, logs AI crawler visits and scores every page for AI-answer readiness. AI writing features use your own OpenAI, Claude or Gemini key.
 
 ## Crawler Access and Log Analysis
 
