@@ -50,6 +50,7 @@ Measuring whether AI engines actually mention you. This is where the paid-SaaS g
 - [searchstack-aeo](https://github.com/alexpospekhov/searchstack-aeo) - Python stack for monitoring visibility across generative engines, assembled for small teams rather than agencies.
 - [goose-aeo](https://github.com/gooseworks-ai/goose-aeo) - AEO tracking CLI plus dashboard, designed to be driven by a coding agent.
 - [potato](https://github.com/onism1767-creator/potato) - Narrow, fast check of how often a brand is mentioned and cited in web-search answers. Good for a quick read before committing to a full platform.
+- [answer-engine-benchmark](https://github.com/synapsereality/answer-engine-benchmark) - Asks four answer engines the same questions three times each with web search on and counts which sites they cite. Keeps every raw answer as JSONL, so a run can be re-scored later.
 
 ## llms.txt Tooling
 
