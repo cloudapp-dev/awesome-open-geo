@@ -97,6 +97,7 @@ You cannot be cited by a crawler you blocked, and you cannot tell whether you we
 GEO workflows packaged for coding agents. Fast to try, but treat their scoring as heuristic — none of these are calibrated against a benchmark.
 
 - [claude-seo](https://github.com/AgriciDaniel/claude-seo) - Broad SEO skill suite for Claude Code with dedicated GEO, schema, and E-E-A-T workflows. The most widely used of these by a wide margin.
+- [Akii SEO & AI Search Optimizer](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer) - MIT-licensed Claude Code plugin that audits sites, generates structured data, and estimates AI-search visibility from public signals.
 - [geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) - GEO-first counterpart focused on citability scoring rather than classic rankings.
 - [orangeo-ai-visibility-skill](https://github.com/PixelOrange7/orangeo-ai-visibility-skill) - Narrow readiness check over robots.txt, llms.txt, schema, and citation signals. Small enough to read end to end before trusting it.
 - [dev-gtm-claude-skills](https://github.com/Infrasity-Labs/dev-gtm-claude-skills) - GEO and AI-discoverability skills aimed specifically at developer-facing products.
