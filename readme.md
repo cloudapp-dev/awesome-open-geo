@@ -99,6 +99,7 @@ GEO workflows packaged for coding agents. Fast to try, but treat their scoring a
 - [claude-seo](https://github.com/AgriciDaniel/claude-seo) - Broad SEO skill suite for Claude Code with dedicated GEO, schema, and E-E-A-T workflows. The most widely used of these by a wide margin.
 - [geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) - GEO-first counterpart focused on citability scoring rather than classic rankings.
 - [orangeo-ai-visibility-skill](https://github.com/PixelOrange7/orangeo-ai-visibility-skill) - Narrow readiness check over robots.txt, llms.txt, schema, and citation signals. Small enough to read end to end before trusting it.
+- [geo-skills](https://github.com/aivisibilitycensus/geo-skills) - Nine Claude skills that report findings with evidence grades instead of a score, including a one-command check of what blocks AI search from a page and an answer log analyzer that puts 95% ranges on how often engines name a brand.
 - [dev-gtm-claude-skills](https://github.com/Infrasity-Labs/dev-gtm-claude-skills) - GEO and AI-discoverability skills aimed specifically at developer-facing products.
 - [ai-brand-monitor-mcp](https://github.com/khadinakbarlabs/ai-brand-monitor-mcp) - MCP server exposing brand-mention tracking across Perplexity, ChatGPT, Claude, and Gemini to any agent.
 
