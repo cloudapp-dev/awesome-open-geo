@@ -50,6 +50,7 @@ Measuring whether AI engines actually mention you. This is where the paid-SaaS g
 - [searchstack-aeo](https://github.com/alexpospekhov/searchstack-aeo) - Python stack for monitoring visibility across generative engines, assembled for small teams rather than agencies.
 - [goose-aeo](https://github.com/gooseworks-ai/goose-aeo) - AEO tracking CLI plus dashboard, designed to be driven by a coding agent.
 - [potato](https://github.com/onism1767-creator/potato) - Narrow, fast check of how often a brand is mentioned and cited in web-search answers. Good for a quick read before committing to a full platform.
+- [AI Scraper](https://frankvitetta.com/ai-scraper/) - MIT Python tool that runs a prompt list through the Perplexity and ChatGPT web UIs in a real Chrome window and saves each answer with its cited sources as CSV or JSONL. Built for sampling citation behaviour at small scale.
 
 ## llms.txt Tooling
 
