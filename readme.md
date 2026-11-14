@@ -50,6 +50,7 @@ Measuring whether AI engines actually mention you. This is where the paid-SaaS g
 - [searchstack-aeo](https://github.com/alexpospekhov/searchstack-aeo) - Python stack for monitoring visibility across generative engines, assembled for small teams rather than agencies.
 - [goose-aeo](https://github.com/gooseworks-ai/goose-aeo) - AEO tracking CLI plus dashboard, designed to be driven by a coding agent.
 - [potato](https://github.com/onism1767-creator/potato) - Narrow, fast check of how often a brand is mentioned and cited in web-search answers. Good for a quick read before committing to a full platform.
+- [ai-citation-map](https://github.com/citeproof/ai-citation-map) - Turns a CSV of URLs cited in AI answers into a ranked list of domains by citations, distinct questions and engines, with no dependencies. Useful for seeing which sites to get mentioned on once you have collected answers by hand or from another tracker.
 
 ## llms.txt Tooling
 
