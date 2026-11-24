@@ -101,6 +101,7 @@ GEO workflows packaged for coding agents. Fast to try, but treat their scoring a
 - [orangeo-ai-visibility-skill](https://github.com/PixelOrange7/orangeo-ai-visibility-skill) - Narrow readiness check over robots.txt, llms.txt, schema, and citation signals. Small enough to read end to end before trusting it.
 - [dev-gtm-claude-skills](https://github.com/Infrasity-Labs/dev-gtm-claude-skills) - GEO and AI-discoverability skills aimed specifically at developer-facing products.
 - [ai-brand-monitor-mcp](https://github.com/khadinakbarlabs/ai-brand-monitor-mcp) - MCP server exposing brand-mention tracking across Perplexity, ChatGPT, Claude, and Gemini to any agent.
+- [ai-search-skills](https://github.com/citedby-eu/ai-search-skills) - Seven skills for Claude Code, Cursor and Codex, each a stdlib-Python script with no install step: per-crawler robots.txt verdicts plus a check of what the server answers to each bot's user-agent, llms.txt and JSON-LD checkers, and a citation probe, citation gap and brand-answer audit that log who gets cited. Parsers have offline tests; only the Anthropic provider of the probe has been run live, and the readme says so.
 
 ## Research and Papers
 
