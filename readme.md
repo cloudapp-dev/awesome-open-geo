@@ -91,6 +91,7 @@ You cannot be cited by a crawler you blocked, and you cannot tell whether you we
 - [Anubis](https://github.com/TecharoHQ/anubis) - Proof-of-work reverse proxy that stops scrapers. Listed because access control is a GEO decision: the tools here let you admit the crawlers you want cited by and shed the rest, instead of an all-or-nothing block.
 - [the-great-gpt-firewall](https://github.com/samber/the-great-gpt-firewall) - Tracks which sites restrict AI crawlers. Useful competitive context on how a given sector is actually behaving.
 - [device-detector](https://github.com/matomo-org/device-detector) - Battle-tested user-agent parser with bot definitions, for classifying crawler traffic inside your own analytics pipeline.
+- [WebDecoy for WordPress](https://github.com/WebDecoy/wordpress-plugin) - WordPress plugin that reports AI crawler requests and assistant referrals separately, with optional robots.txt controls and no account required for local reporting.
 
 ## Agent Skills and MCP Servers
 
