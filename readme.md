@@ -119,6 +119,7 @@ The evidence base. Worth reading before trusting any tool's score, since most sc
 - [llms-txt-hub](https://github.com/thedaviddias/llms-txt-hub) - The largest directory of sites that publish `llms.txt`, useful both as adoption data and as a source of real-world examples.
 - [Awesome llms.txt](https://github.com/SecretiveShell/Awesome-llms-txt) - Index of `llms.txt` files across the web, structured as seed data for crawling.
 - [GEO research hub](https://github.com/Wu-beining/generative-engine-optimization-research-hub) - Running bibliography of GEO, AEO, and AIO papers, updated more often than any published survey.
+- [Visdenda AI crawler directory](https://github.com/Visdenda/ai-crawler-directory) - Open, versioned directory of AI crawler identities (69 agents, 26 providers) with robots.txt tokens, reverse-DNS suffixes and IP-range sources, published as JSON and CSV; MIT code and CC BY 4.0 data.
 
 ## Related Lists
 
